@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainWindow",
+            "request": "launch",
+            "mainClass": "MainWindow",
+            "projectName": "MancresMethod_c82b6778"
+        }
+    ]
+}

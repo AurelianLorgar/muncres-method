@@ -1,0 +1,14 @@
+{
+  "incremental": false,
+  "debug-log": ".PVS-Studio/logs/pvs.log",
+  "exclude": [],
+  "fail-on-warnings": false,
+  "disabled-warnings": [],
+  "enabled-warnings": [],
+  "benchmark": false,
+  "enable-assertions": false,
+  "verbose": false,
+  "suppress-base": ".PVS-Studio/suppress_base.json",
+  "timeout": 10,
+  "logging": "INFO"
+}
